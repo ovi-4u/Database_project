@@ -1,0 +1,29 @@
+INSERT INTO products (name, price, image, description) VALUES
+
+-- 📱 Mobile Phones
+('iPhone 15 Pro', 140000, 'iphone15.jpg', 'Apple flagship smartphone with A17 chip'),
+('Samsung Galaxy S23 Ultra', 120000, 's23ultra.jpg', 'High-end Android phone with 200MP camera'),
+('Xiaomi Redmi Note 13', 25000, 'redmi13.jpg', 'Budget friendly smartphone with great battery'),
+
+-- 💻 Laptops
+('MacBook Air M2', 150000, 'macbook.jpg', 'Lightweight Apple laptop with M2 chip'),
+('ASUS ROG Strix G15', 135000, 'rog.jpg', 'Gaming laptop with RTX graphics'),
+('Dell XPS 13', 160000, 'xps13.jpg', 'Premium ultrabook with sleek design'),
+
+-- 🖥️ Desktop & Accessories
+('Gaming PC Build', 200000, 'gamingpc.jpg', 'Custom high-performance gaming desktop'),
+('LG 27 Inch Monitor', 30000, 'monitor.jpg', 'Full HD IPS display monitor'),
+('Mechanical Keyboard', 5000, 'keyboard.jpg', 'RGB mechanical gaming keyboard'),
+
+-- 🎧 Gadgets
+('Sony WH-1000XM5', 35000, 'sonyheadphone.jpg', 'Noise cancelling wireless headphones'),
+('Apple AirPods Pro', 30000, 'airpods.jpg', 'Premium wireless earbuds with ANC'),
+('Logitech MX Master 3', 9000, 'mouse.jpg', 'Advanced wireless productivity mouse'),
+
+-- ⌚ Wearables
+('Apple Watch Series 9', 50000, 'applewatch.jpg', 'Smartwatch with health tracking'),
+('Samsung Galaxy Watch 6', 35000, 'galaxywatch.jpg', 'Android smartwatch with fitness features'),
+
+-- 🎮 Gaming
+('PlayStation 5', 75000, 'ps5.jpg', 'Next-gen gaming console'),
+('Xbox Series X', 70000, 'xbox.jpg', 'Powerful gaming console from Microsoft');
